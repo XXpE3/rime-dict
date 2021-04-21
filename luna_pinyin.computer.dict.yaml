@@ -2,7 +2,7 @@
 # encoding: utf-8
  
 ---
-name: luna_pinyin.computer
+name: luna_pinyin.reborn
 version: "2021.04.20"
 sort: by_weight
 use_preset_vocabulary: true
@@ -10,6 +10,10 @@ import_tables:
   - luna_pinyin
   - luna_pinyin.sogou
   - luna_pinyin.computer
+  - luna_pinyin.2
+  - luna_pinyin.anime
+  - luna_pinyin.internet.popularity
+  - luna_pinyin.reborn
 ...
 
 阿姆达尔定律	a mu da er ding lv	1
